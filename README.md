@@ -16,7 +16,7 @@
 # Installation:
 ## Android(Termux):
 ```console
-$ apt update && apt upgradez
+apt update && apt upgrade
 
 pkg install python git
 
