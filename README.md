@@ -17,38 +17,30 @@
 ## Android(Termux):
 ```console
 $ apt update && apt upgradez
-```
-```console
-$ pkg install python git
-```
-```console
-$ git clone https://github.com/Sigma-cc/Discord-Nuke-Bot
-```
-```console
-$ cd Discord-Nuke-Bot
-```
-```console
-$ python -m pip install -r requirements.txt
-```
-```console
-$ python nuke-bot.py
+
+pkg install python git
+
+git clone https://github.com/Sigma-cc/Discord-Nuke-Bot
+
+cd Discord-Nuke-Bot
+
+python -m pip install -r requirements.txt
+
+python nuke-bot.py
 ```
 **[Subsequent launches]**
 ```console
-$ cd Discord-Nuke-Bot
-```
-```console
-$ python nuke-bot.py
+cd Discord-Nuke-Bot
+
+python nuke-bot.py
 ```
 ## Linux
 ```console
-$ git clone https://github.com/Sigma-cc/Discord-Nuke-Bot
-```
-```console
-$ cd Discord-Nuke-Bot
-```
-```console
-$ python3 nuke-bot.py
+git clone https://github.com/Sigma-cc/Discord-Nuke-Bot
+
+cd Discord-Nuke-Bot
+
+python3 nuke-bot.py
 ```
 
 ***
