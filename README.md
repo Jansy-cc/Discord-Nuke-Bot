@@ -34,11 +34,13 @@ cd Discord-Nuke-Bot
 
 python nuke-bot.py
 ```
-## Linux
+## Linux / Windows
 ```console
 git clone https://github.com/Sigma-cc/Discord-Nuke-Bot
 
 cd Discord-Nuke-Bot
+
+python -m pip install -r requirements.txt
 
 python3 nuke-bot.py
 ```
